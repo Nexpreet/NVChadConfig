@@ -8,4 +8,4 @@ Potrebno je imati gcc instaliran (proveriti sa komandom gcc -v u cmd-u, kao i lu
 
 Pogledaj NVChad sajt
 
-nvim folder smestiti u C:\Users\<USER>\AppData\Local\
+nvim folder smestiti u C:\Users\USER\AppData\Local\
